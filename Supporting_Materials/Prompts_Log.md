@@ -130,6 +130,10 @@ prompt = """
 Provide the python entire code to plot  Estimate Price Elasticity by Sub-Category
 """
 
+prompt = """
+Provide the entire code to calculate profit and loss pie charts showing contribution of each sub-category. 
+"""
+
 
 # E - Extend (Strategic Application)
 
