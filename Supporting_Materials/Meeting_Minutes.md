@@ -20,13 +20,15 @@
 
 #### \## Agenda
 
-#### \*   \[Topic 1]
+#### \*   Decide Team Leader who will submit Zip file of GitHub on Brightspace
 
-#### \*   \[Topic 2]
+#### \*   Decide which Final submission date on which Team Leader will go ahead to zip and submit the GitHub on Brightspace and inform others with submission confirmation by email.
 
-#### \*   \[Topic 3]
+#### \*   Decide who will video record which slide of the presentation file
 
-#### \*   ...
+#### \*   Decide which date the individual Video recording will be pushed in GitHub to combine for final submission
+
+#### \*   Final Date for completion of Individual Analysis and make available on GitHub for team review
 
 #### 
 
@@ -38,13 +40,13 @@
 
 #### \*   \*\*Action Items:\*\*
 
-#### &nbsp;   \*   \[Action Item 1] - \[Assignee]
+####     \*   \[Action Item 1] - \[Assignee]
 
-#### &nbsp;   \*   \[Action Item 2] - \[Assignee]
+####     \*   \[Action Item 2] - \[Assignee]
 
 #### \*   \*\*Decisions:\*\*
 
-#### &nbsp;   \*   \[Decision 1]
+####     \*   \[Decision 1]
 
 #### 
 
@@ -54,11 +56,11 @@
 
 #### \*   \*\*Action Items:\*\*
 
-#### &nbsp;   \*   \[Action Item 1] - \[Assignee]
+####     \*   \[Action Item 1] - \[Assignee]
 
 #### \*   \*\*Decisions:\*\*
 
-#### &nbsp;   \*   \[Decision 1]
+####     \*   \[Decision 1]
 
 #### 
 
@@ -68,11 +70,11 @@
 
 #### \*   \*\*Action Items:\*\*
 
-#### &nbsp;   \*   \[Action Item 1] - \[Assignee]
+####     \*   \[Action Item 1] - \[Assignee]
 
 #### \*   \*\*Decisions:\*\*
 
-#### &nbsp;   \*   \[Decision 1]
+####     \*   \[Decision 1]
 
 #### 
 
