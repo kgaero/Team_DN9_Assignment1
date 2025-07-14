@@ -154,6 +154,8 @@ Calculate the Loss of these items of the 2017 for these discount values and prov
 
 <!-- ───────── START of Prompts by Sai Nuka (snuka@purdue.edu) ───────── -->
 
+# Prompt Log of Sai Nuka - Regional/Operational Analyst
+
 Initial Question (Used for initial regional profit analysis):
 How do the four regions rank in terms of profit performance, and what are their basic profit metrics
 (Used in the comment above the SQL query in cell w4hioxWZumFI)
