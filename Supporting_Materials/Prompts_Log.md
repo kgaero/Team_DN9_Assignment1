@@ -273,21 +273,21 @@ Transform these findings into a comprehensive strategic action plan that executi
 <!-- ───────── END of Prompts by Sai Nuka (snuka@purdue.edu) ───────── -->
 
 <!-- ───────── START of Prompts by Rakesh Prusty (prustyr@purdue.edu) ───────── -->
-## Prompt Log of Rakesh Prusty - Sales & Revenue Analyst
+# Prompt Log of Rakesh Prusty - Sales & Revenue Analyst
 
 Here are the prompts used in this analysis, categorized by the DIVE methodology step they correspond to:
 
-### Initial Setup and Data Load
+## Initial Setup and Data Load
 
 *   "Read the mgmt599-rakesh-assignment-1.assignment1_eda.superstore_dataset table from BigQuery, perform exploratory data analysis"
 
-### Discover (D)
+## Discover (D)
 
 *   "Visualize Sales Trend over time"
 *   "Analyze Sales Performance by Different Dimensions"
 *   "how sales is corelated to different dimensions. Produce charts and summary"
 
-### Investigate (I)
+## Investigate (I)
 
 *   "Analyze Sales Amount by Category and Subcategory"
 *   "Analyze Monthly Sales Trend by Region"
@@ -302,7 +302,7 @@ Here are the prompts used in this analysis, categorized by the DIVE methodology 
 *   "Analyze Quantity and Profit in High-Sales Periods"
 *   "Summarize Predictive Factors"
 
-### Validate (V)
+## Validate (V)
 
 *   "Check for Consistency of High-Sales Months Across Years"
 *   "Contribution of Top Categories/Subcategories in High-Sales Months"
@@ -310,7 +310,7 @@ Here are the prompts used in this analysis, categorized by the DIVE methodology 
 *   "How would you validate that investigate summary is not due to data collection bias?"
 *   "Design 3 tests to confirm the Investigate Summary using the available data"
 
-### Extend (E)
+## Extend (E)
 
 *   "Analyze strategies for end-of-year seasonality"
 *   "Optimize discount and promotional strategies"
