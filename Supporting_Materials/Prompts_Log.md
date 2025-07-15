@@ -271,3 +271,53 @@ Based on these validated insights, what should the business do? How can we measu
 
 Transform these findings into a comprehensive strategic action plan that executives can implement across regional operations.
 <!-- ───────── END of Prompts by Sai Nuka (snuka@purdue.edu) ───────── -->
+
+<!-- ───────── START of Prompts by Rakesh Prusty (prustyr@purdue.edu) ───────── -->
+# Prompt Log of Rakesh Prusty - Sales & Revenue Analyst
+
+Here are the prompts used in this analysis, categorized by the DIVE methodology step they correspond to:
+
+## Initial Setup and Data Load
+
+*   "Read the mgmt599-rakesh-assignment-1.assignment1_eda.superstore_dataset table from BigQuery, perform exploratory data analysis"
+
+## Discover (D)
+
+*   "Visualize Sales Trend over time"
+*   "Analyze Sales Performance by Different Dimensions"
+*   "how sales is corelated to different dimensions. Produce charts and summary"
+
+## Investigate (I)
+
+*   "Analyze Sales Amount by Category and Subcategory"
+*   "Analyze Monthly Sales Trend by Region"
+*   "Analyze Monthly Sales Trend by Category"
+*   "Deep dive into high-performing categories/subcategories"
+*   "Investigate profitability issues in specific subcategories"
+*   "Analyze Monthly Sales Trend by Segment"
+*   "Analyze performance in high-performing regions and segments"
+*   "Analyze the impact of Discount on Sales"
+*   "Identify High-Sales Periods and Filter Data"
+*   "Analyze Sales by Dimension in High-Sales Periods"
+*   "Analyze Quantity and Profit in High-Sales Periods"
+*   "Summarize Predictive Factors"
+
+## Validate (V)
+
+*   "Check for Consistency of High-Sales Months Across Years"
+*   "Contribution of Top Categories/Subcategories in High-Sales Months"
+*   "Distribution of Sales Across Discount Levels"
+*   "How would you validate that investigate summary is not due to data collection bias?"
+*   "Design 3 tests to confirm the Investigate Summary using the available data"
+
+## Extend (E)
+
+*   "Analyze strategies for end-of-year seasonality"
+*   "Optimize discount and promotional strategies"
+*   "Synthesize findings and formulate growth recommendations"
+*   "Analyze strategies for end-of-year seasonality"
+*   "Immediate Actions: What can be done today?"
+*   "Strategic Implications: How does this change our approach?"
+*   "Future Investigations: What follow-up analysis is needed?"
+*   "Risk Mitigation: What could go wrong with our recommendations?"
+<!-- ───────── END of Prompts by Rakesh Prusty (prustyr@purdue.edu) ───────── -->
