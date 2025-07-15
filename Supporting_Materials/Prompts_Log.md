@@ -321,3 +321,52 @@ Here are the prompts used in this analysis, categorized by the DIVE methodology 
 *   "Future Investigations: What follow-up analysis is needed?"
 *   "Risk Mitigation: What could go wrong with our recommendations?"
 <!-- ───────── END of Prompts by Rakesh Prusty (prustyr@purdue.edu) ───────── -->
+
+<!-- ───────── START of Prompts by Pavan Meka (pmeka@purdue.edu) ───────── -->
+# Prompt log of Pavan Meka - Product Performance Analyst
+
+## Preprocessing/Data Cleaning:
+*  Clean and preprocess the dataset by handling null values, parsing order dates into year/quarter/month, converting key fields to numeric types, and engineering features like Profit Margin for further analysis.
+
+## D- Discover
+- Aggregate KPIs by category, subcategory, and product using:  
+  SUM(sales), SUM(profit), AVG(profit margin), and COUNT(order_id).
+- Rank top 10 products and categories based on:  
+  Total Sales, Total Profit, and Profit Margin.
+- Group data by Year or Quarter to analyze temporal trends.
+- Identify product cycles and detect seasonal spikes or dips in performance.
+
+## I- Investigate
+
+- Explore discounting patterns across customer segments, regions, and subcategories.
+- Segment data into discount ranges (0%, 0.01–0.2, >0.2) and compare metrics like sales, profit, and profit margin.
+- Evaluate profitability across Consumer, Corporate, and Home Office segments.
+- Use Order Quarter to identify seasonal discount trends and detect performance volatility.
+- Create charts to see how discounts affect profit margins.
+- Check how much sales and profit each discount level brings on average.
+- Look at how often each discount level is used over time.
+- Find out which product categories and subcategories get the highest discounts.
+- See if giving more discounts leads to more sales or lower profits.
+
+## V - Validate
+
+- Check how discount, sales, quantity, and profit margin are related using a correlation chart.
+- Use a regression model to see which factors affect profit margin the most.
+- Compare average profit margins between no-discount and high-discount orders using a t-test.
+- Use ANOVA to check if profit margins are different across product categories.
+- Understand if the differences found are meaningful or just due to chance.
+- Check how different discount levels perform in each region.
+- Use a heatmap to show profit margins by discount and region.
+- See how different customer types (like Consumer or Corporate) buy from each product category.
+- Use a heatmap to show which customer and category pairs give the best profits.
+
+## E - Extend
+
+- Group products using Product Strategy Matrix
+- Find best and worst categories and subcategories by profit.  
+- See how discounts affect profit margins across categories and regions.  
+- Compare regions and customer segments for higher profits.  
+- Check seasonal trends using year and quarter data.  
+- Use heatmaps to view profit and transactions by discount and subcategory.
+ 
+<!-- ───────── END of Prompts by Pavan Meka  (pmeka@purdue.edu) ───────── -->
