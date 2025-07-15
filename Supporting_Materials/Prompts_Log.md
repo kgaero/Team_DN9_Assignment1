@@ -273,7 +273,7 @@ Transform these findings into a comprehensive strategic action plan that executi
 <!-- ───────── END of Prompts by Sai Nuka (snuka@purdue.edu) ───────── -->
 
 <!-- ───────── START of Prompts by Rakesh Prusty (prustyr@purdue.edu) ───────── -->
-## Prompts Used in Sales Analysis
+## # Prompt Log of Rakesh Prusty - Sales & Revenue Analyst
 
 Here are the prompts used in this analysis, categorized by the DIVE methodology step they correspond to:
 
