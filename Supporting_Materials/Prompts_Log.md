@@ -373,7 +373,7 @@ Here are the prompts used in this analysis, categorized by the DIVE methodology 
 <!-- ───────── START of Prompts by Erjon Brucaj (ebrucaj@purdue.edu) ───────── -->
 # Prompt log of Erjon Brucaj - Customer Behavior Analyst
 
-Prompt 1: Identifying High-Value Customer Segments Using CLV Scoring
+**Prompt 1: Identifying High-Value Customer Segments Using CLV Scoring**
 I'm analyzing customer value for a retail dataset using a calculated Customer Lifetime Value (CLV) score based on total sales, total profit, number of orders, and average profit margin.
 These are my top 10 customers based on the highest CLV scores:
 Customer   num_orders   total_sales   total_profit   avg_profit_margin   clv_score
@@ -391,7 +391,7 @@ Help me understand:
 1. What are the key insights or patterns from this group?
 2. Why might these patterns exist?
 3. What strategic actions or business implications could follow from this?
-Prompt 2: Uncovering Purchasing Behavior Trends Across Segments and Time
+**Prompt 2: Uncovering Purchasing Behavior Trends Across Segments and Time**
 You are an expert data analyst working with a retail dataset from a Superstore. Below is a summary of key outputs from our customer behavior analysis. Use this data to analyze customer purchasing patterns and provide actionable insights.
 
 I'm analyzing purchasing patterns in a retail dataset.
@@ -431,28 +431,28 @@ Help me understand:
 2. Why might these patterns be occurring?
 3. What actions or business strategies could be informed by these trends? Customers by Average Order Value (AOV):
 
-Prompt 3: Evaluating Customer Retention and Churn Risk Signals
+**Prompt 3: Evaluating Customer Retention and Churn Risk Signals**
 You are a customer analytics expert analyzing retention data for a Superstore retail dataset. Below is a summary of key outputs identifying patterns in customer behavior, particularly repeat buyers and churn risk.
 
 ---I'm analyzing customer retention in a retail dataset, Here are my summary tables:
-1. Customer Type Counts:
+1. **Customer Type Counts:**
 customer_type     count
 Repeat                  781
 One-Time              12
-2. Average Profit by Customer Type:
+2. **Average Profit by Customer Type:**
 customer_type     total_profit
 Repeat                 365.72
 One-Time             63.95
-3. High-CLV Customers At Risk of Churn:
+3. **High-CLV Customers At Risk of Churn:**
 customer           clv_score   recency_days   num_orders   total_profit
 Tamara Chand     0.703       399                         5            8981.32
 Sanjit Chand        0.637       349                         9            5757.41
-4. Repeat vs One-Time by Segment:
+4. **Repeat vs One-Time by Segment:**
 segment         One-Time    Repeat
 Consumer        0.0147      0.9853
 Corporate         0.0212      0.9788
 Home Office     0.0068      0.9932
-5. Category Preference by Customer Type:
+5. **Category Preference by Customer Type:**
 customer_type    category             num_orders
 One-Time             Furniture                10
 One-Time            Office Supplies       11
@@ -460,7 +460,7 @@ One-Time            Technology              6
 Repeat                Furniture                 2111
 Repeat                Office Supplies       6015
 Repeat                Technology             1841
-6. Average Discount by Customer Type:
+6. **Average Discount by Customer Type:**
 customer_type   discount
 One-Time        0.1556
 Repeat          0.1562
