@@ -374,6 +374,7 @@ Here are the prompts used in this analysis, categorized by the DIVE methodology 
 # Prompt log of Erjon Brucaj - Customer Behavior Analyst
 
 **Prompt 1: Identifying High-Value Customer Segments Using CLV Scoring**
+
 I'm analyzing customer value for a retail dataset using a calculated Customer Lifetime Value (CLV) score based on total sales, total profit, number of orders, and average profit margin.
 These are my top 10 customers based on the highest CLV scores:
 Customer   num_orders   total_sales   total_profit   avg_profit_margin   clv_score
@@ -392,6 +393,7 @@ Help me understand:
 2. Why might these patterns exist?
 3. What strategic actions or business implications could follow from this?
 **Prompt 2: Uncovering Purchasing Behavior Trends Across Segments and Time**
+
 You are an expert data analyst working with a retail dataset from a Superstore. Below is a summary of key outputs from our customer behavior analysis. Use this data to analyze customer purchasing patterns and provide actionable insights.
 
 I'm analyzing purchasing patterns in a retail dataset.
@@ -432,6 +434,7 @@ Help me understand:
 3. What actions or business strategies could be informed by these trends? Customers by Average Order Value (AOV):
 
 **Prompt 3: Evaluating Customer Retention and Churn Risk Signals**
+
 You are a customer analytics expert analyzing retention data for a Superstore retail dataset. Below is a summary of key outputs identifying patterns in customer behavior, particularly repeat buyers and churn risk.
 
 ---I'm analyzing customer retention in a retail dataset, Here are my summary tables:
