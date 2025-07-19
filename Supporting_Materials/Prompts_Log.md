@@ -388,10 +388,12 @@ Hunter Lopez	   6	        12873.30	    5622.43	        0.314	            0.562
 Clay Ludtke      12	        10880.55	    1933.78	        0.245	            0.556
 Greg Tran         11	        11820.12	    2163.43	        0.286	            0.554
 Keith Dawkins	  12	         8181.26	    3038.63	        0.245	            0.552
+
 Help me understand:
 1. What are the key insights or patterns from this group?
 2. Why might these patterns exist?
 3. What strategic actions or business implications could follow from this?
+
 **Prompt 2: Uncovering Purchasing Behavior Trends Across Segments and Time**
 
 You are an expert data analyst working with a retail dataset from a Superstore. Below is a summary of key outputs from our customer behavior analysis. Use this data to analyze customer purchasing patterns and provide actionable insights.
@@ -399,6 +401,7 @@ You are an expert data analyst working with a retail dataset from a Superstore. 
 I'm analyzing purchasing patterns in a retail dataset.
 
 Here are summary tables I created:
+
 1. **Top 10 customers by number of orders:**
 customer	     num_orders    total_sales    total_profit    avg_discount
 Emily Phan	            17	        5478.06	     144.96	       0.197
@@ -411,12 +414,16 @@ Erin Ashbrook	            13	        2846.71	     -52.74	       0.300
 Chloris Kastensmidt    13	        3154.86	     141.28	       0.234
 Suzanne McNair         12	        5563.39	     581.57	       0.127
 Rick Bensley	            12	        4715.47	     640.55	       0.135
+
 2. **Monthly orders and sales:**
+
 [Include 3–5 high months]
 - 2022-11: 261 orders, $118,447.83
 - 2022-12: 224 orders, $83,829.32
 - 2022-09: 226 orders, $87,866.65
+
 3. **Top-selling subcategories:**
+
 subcategory	        sales	        profit
 Phones	   $330,007.05	       $44,515.73
 Chairs	               $328,449.10	       $26,590.17
@@ -425,9 +432,11 @@ Tables	               $206,965.53	      -$17,725.48
 Copiers	            $149,528.03	    $55,617.82
 
 4. **Average Order Value by segment:**
+
 - Home Office: $472.67
 - Corporate: $466.41
 - Consumer: $449.11
+
 Help me understand:
 1. What key patterns or customer behaviors stand out from this data?
 2. Why might these patterns be occurring?
@@ -438,23 +447,28 @@ Help me understand:
 You are a customer analytics expert analyzing retention data for a Superstore retail dataset. Below is a summary of key outputs identifying patterns in customer behavior, particularly repeat buyers and churn risk.
 
 ---I'm analyzing customer retention in a retail dataset, Here are my summary tables:
+
 1. **Customer Type Counts:**
 customer_type     count
 Repeat                  781
 One-Time              12
+
 2. **Average Profit by Customer Type:**
 customer_type     total_profit
 Repeat                 365.72
 One-Time             63.95
+
 3. **High-CLV Customers At Risk of Churn:**
 customer           clv_score   recency_days   num_orders   total_profit
 Tamara Chand     0.703       399                         5            8981.32
 Sanjit Chand        0.637       349                         9            5757.41
+
 4. **Repeat vs One-Time by Segment:**
 segment         One-Time    Repeat
 Consumer        0.0147      0.9853
 Corporate         0.0212      0.9788
 Home Office     0.0068      0.9932
+
 5. **Category Preference by Customer Type:**
 customer_type    category             num_orders
 One-Time             Furniture                10
@@ -463,12 +477,14 @@ One-Time            Technology              6
 Repeat                Furniture                 2111
 Repeat                Office Supplies       6015
 Repeat                Technology             1841
+
 6. **Average Discount by Customer Type:**
 customer_type   discount
 One-Time        0.1556
 Repeat          0.1562
 
 Help me understand:
+
 1. What retention risks or opportunities stand out in this data?
 2. Why might these patterns exist?
 3. What strategies could improve retention, particularly among high-value or at-risk customers?
